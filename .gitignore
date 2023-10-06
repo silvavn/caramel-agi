@@ -11,7 +11,7 @@ env/
 .vscode/
 .idea/
 
-models
+#models
 llama/
 
 /data/harry_potter/chapters
